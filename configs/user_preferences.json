@@ -1,0 +1,20 @@
+{
+    "name": "John Doe",
+    "age": 28,
+    "goal": "cutting",
+    "height": 175,
+    "weight": 80,
+    "monthly_budget": 3000,
+    "preferred_foods": [
+        ""
+    ],
+    "avoid_foods": [
+        ""
+    ],
+    "calories_per_day": 2000,
+    "diet_type": "high-protein",
+    "activity_level": "moderate",
+    "allergies": [
+        ""
+    ]
+}
