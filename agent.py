@@ -8,7 +8,7 @@ llm = AzureChatOpenAI(
     deployment_name="gpt-4.1",
     openai_api_version="2024-12-01-preview",
     openai_api_key="",
-    azure_endpoint="https://joshi-ma20px8d-eastus2.cognitiveservices.azure.com/",
+    azure_endpoint="",
 )
 
 # Agent tools (add more later if needed)
