@@ -7,7 +7,7 @@ from tools import order_food_p
 llm = AzureChatOpenAI(
     deployment_name="gpt-4.1",
     openai_api_version="2024-12-01-preview",
-    openai_api_key="8YP2fJz9gBZr0OeLO0XB5dVmddRhmcHbRYyhVb38b7tSg8e0cTiqJQQJ99BDACHYHv6XJ3w3AAAAACOG5Zal",
+    openai_api_key="",
     azure_endpoint="https://joshi-ma20px8d-eastus2.cognitiveservices.azure.com/",
 )
 
